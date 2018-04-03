@@ -16,3 +16,13 @@ Diseño de programas, técnicas para la construcción, documentación y segu
 ## Contenidos mínimos 5 Año
 
 Ventajas de dividir la problemática en problemas menores. Aplicación del criterio top down. Concepto de biblioteca y funciones. Definición de funciones. Prototipos de función. Pasaje de parámetros por valor y por referencia. Concepto de recursividad. Diferencias y similitudes entre recursividad e iteración. Arreglos unidimensionales (vectores) y bidimensionales (matrices). Declaración y ejemplos. Métodos de búsqueda y ordenamiento. Pasaje de arreglos a una función. Arreglos de caracteres. Bibliotecas para la manipulación de caracteres y cadenas. Funciones de conversión, comparación y de memoria. Concepto de Punteros, representación de la memoria de la computadora. Definición e inicialización de punteros. Operadores. Llamadas a funciones y pasajes por referencia. Expresiones con punteros. Aritmética de punteros. Relación entre punteros y arreglos. Arreglos de punteros. Punteros a funciones.
+
+
+## Contenidos mínimos 6 Año
+
+Se propone mediante los siguientes contenidos el abordaje a la programación en un segundo nivel de complejidad. Si bien la presente propuesta es factible de desarrollarse con cualquier lenguaje de programación, se sugiere, así como en el año anterior, el trabajo con ANSI C/C++.
+
+Estructuras de datos. Definición e inicialización de estructuras. Acceso a los miembros de la estructura. Funciones y estructuras. Definición de tipos. Uniones. Procesamiento de archivos. Jerarquía de datos. Archivos y flujos. Acceso secuencial. Acceso aleatorio. Archivos de texto y binarios. Introducción a las estructuras dinámicas en programación. Estructuras autorreferenciadas. Asignación dinámica de memoria. Listas. Listas enlazadas. Pilas. Colas. Árboles. Concepto de Shell. Shells y sistemas operativos. Operación de los shells y conceptos de sintaxis Variables utilizadas y establecidas por el shell. Procesamiento en segundo plano y control de procesos. Sustitución de comandos. Creación de alias de comandos. Programación de shell. Generación de archivos de inicio de shell. Scripting.
+
+
+#### http://elvex.ugr.es/decsai/c/
