@@ -23,3 +23,4 @@ dirección de memoria.
 
 
 http://elvex.ugr.es/decsai/c/apuntes/punteros.pdf
+http://www.it.uc3m.es/abel/as/DSP/M2/Pointers_es.html
