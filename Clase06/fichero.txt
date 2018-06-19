@@ -1,0 +1,2 @@
+Mostrando el uso de fputs en un fichero.
+Mostramos un string en la segunda line.
